@@ -6,7 +6,7 @@ Este é o repositório do meu portfólio pessoal, hospedado via [GitHub Pages](h
 
 - HTML5
 - CSS3
-- JavaScript (opcional)
+- JavaScript
 - GitHub Pages para hospedagem
 
 ## Como visualizar
@@ -17,10 +17,15 @@ Você pode acessar o site diretamente pelo link abaixo:
 
 ## Estrutura do projeto
 
-Portfolio/
+PORTFOLIO/
+┣ 📁 assets/
+┃ ┣ 📁 css/
+┃ ┃ ┗ 📄 style.css
+┃ ┣ 📁 img/
+┃ ┣ 📁 js/
+┃ ┃ ┗ 📄 script.js
 ┣ 📄 index.html
-┣ 📄 style.css
-┣ 📄 script.js (opcional)
+┣ 📄 contato.html
 ┗ 📄 README.md
 
 ## Como publicar com GitHub Pages
@@ -38,9 +43,9 @@ Este projeto é pessoal, mas sugestões são bem-vindas! Sinta-se à vontade par
 
 Você pode me encontrar em:
 
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- [Email](mailto:seuemail@exemplo.com)
+- [LinkedIn](https://www.linkedin.com/in/david-aparecido-da-silva)
+- [Email](davdmarosticasilvasilva25@gmail.com)
 
 ---
 
-Feito com 💙 por David Aparecido da silva
+Feito com 💙 por David Aparecido da Silva
